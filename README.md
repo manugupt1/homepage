@@ -1,10 +1,13 @@
-# React-Static - Tailwind CSS Example
 
-This example is a blank version of react-static. It includes::
-- Babel
-- CSS imports
-- Image imports
-- File imports
+# My personal homepage
+
+![Build Status](https://travis-ci.org/manugupt1/homepage.svg?branch=master)
+
+[Visit my website here](gmanu.me)
+
+It is built using
+- [React-static](https://github.com/nozzle/react-static)
 - [Tailwind CSS](https:git//tailwindcss.com/)
 
-To get started, run `react-static create` and use the `tailwindcss` template.
+
+
