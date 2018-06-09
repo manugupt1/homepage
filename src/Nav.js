@@ -9,7 +9,7 @@ class Nav extends Component {
             <a href="https://s3-us-west-1.amazonaws.com/gmanu.me/public/gmanu_resume.pdf" className="text-xl block mt-4 lg:inline-block lg:mt-0 text-green hover:text-white mr-4" target="blank">
               Resume
             </a>
-            <a href="https://sysbytes.wordpress.com/" className="text-xl block mt-4 lg:inline-block lg:mt-0 text-green hover:text-white" target="blank">
+            <a href="https://sysbytes.wordpress.com/" className="text-xl block mt-4 lg:inline-block lg:mt-0 text-green hover:text-white mr-4" target="blank">
               Blog
             </a>
             <a href="mailto:manugupt1@gmail.com" className="text-xl block mt-4 lg:inline-block lg:mt-0 text-green hover:text-white">
