@@ -17,6 +17,9 @@ class App extends Component {
               <a href="https://sysbytes.wordpress.com/" className="text-xl block mt-4 lg:inline-block lg:mt-0 text-green hover:text-white" target="blank">
                 Blog
               </a>
+              <a href="mailto:manugupt1@gmail.com" className="text-xl block mt-4 lg:inline-block lg:mt-0 text-green hover:text-white">
+              Email
+              </a>
             </div>
           </div>
         </nav>
